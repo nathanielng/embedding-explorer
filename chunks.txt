@@ -1,0 +1,28 @@
+Machine learning models are trained on large datasets to recognize patterns.
+Neural networks consist of layers of interconnected nodes that process information.
+Deep learning uses multiple layers to learn hierarchical representations of data.
+Gradient descent is an optimization algorithm used to train machine learning models.
+Backpropagation computes gradients to update neural network weights during training.
+Transfer learning allows models trained on one task to be applied to another task.
+Attention mechanisms allow models to focus on relevant parts of the input sequence.
+Transformers use self-attention to process sequences in parallel rather than sequentially.
+BERT is a pre-trained transformer model fine-tuned for various NLP tasks.
+GPT models generate text by predicting the next token based on prior context.
+Singapore is a city-state located at the southern tip of the Malay Peninsula.
+The Port of Singapore is one of the busiest container ports in the world.
+Singapore's GDP per capita is among the highest in Asia, driven by finance and trade.
+Changi Airport consistently ranks as one of the best airports globally.
+The Housing Development Board provides affordable public housing for most Singaporeans.
+AWS offers over 200 services including compute, storage, and machine learning.
+Amazon Bedrock provides access to foundation models via a managed API.
+EC2 instances provide scalable compute capacity in the AWS cloud.
+S3 is an object storage service offering industry-leading durability at scale.
+Lambda enables serverless compute, running code without provisioning servers.
+VPC allows users to launch resources in a logically isolated virtual network.
+IAM controls access to AWS services and resources securely.
+CloudFormation lets you model, provision, and manage AWS resources with code.
+The human gut microbiome contains trillions of microorganisms influencing health.
+Gut bacteria produce short-chain fatty acids that fuel colonocyte metabolism.
+Probiotics are live microorganisms that confer health benefits when consumed.
+The gut-brain axis links the enteric nervous system to the central nervous system.
+Dysbiosis, or microbial imbalance, is associated with inflammatory bowel disease.

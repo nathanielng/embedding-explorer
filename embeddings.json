@@ -1,0 +1,198 @@
+[
+  {
+    "id": 0,
+    "text": "Machine learning models are trained on large datasets to recognize patterns.",
+    "x": 6.884814,
+    "y": 12.836613,
+    "cluster": 2
+  },
+  {
+    "id": 1,
+    "text": "Neural networks consist of layers of interconnected nodes that process information.",
+    "x": 6.755375,
+    "y": 11.693213,
+    "cluster": -1
+  },
+  {
+    "id": 2,
+    "text": "Deep learning uses multiple layers to learn hierarchical representations of data.",
+    "x": 6.966211,
+    "y": 12.199149,
+    "cluster": 2
+  },
+  {
+    "id": 3,
+    "text": "Gradient descent is an optimization algorithm used to train machine learning models.",
+    "x": 6.772684,
+    "y": 12.505133,
+    "cluster": 2
+  },
+  {
+    "id": 4,
+    "text": "Backpropagation computes gradients to update neural network weights during training.",
+    "x": 6.503186,
+    "y": 11.825029,
+    "cluster": 2
+  },
+  {
+    "id": 5,
+    "text": "Transfer learning allows models trained on one task to be applied to another task.",
+    "x": 7.361824,
+    "y": 12.918131,
+    "cluster": 2
+  },
+  {
+    "id": 6,
+    "text": "Attention mechanisms allow models to focus on relevant parts of the input sequence.",
+    "x": 6.272272,
+    "y": 12.941192,
+    "cluster": 2
+  },
+  {
+    "id": 7,
+    "text": "Transformers use self-attention to process sequences in parallel rather than sequentially.",
+    "x": 5.837749,
+    "y": 12.790799,
+    "cluster": 2
+  },
+  {
+    "id": 8,
+    "text": "BERT is a pre-trained transformer model fine-tuned for various NLP tasks.",
+    "x": 6.192033,
+    "y": 12.394469,
+    "cluster": 2
+  },
+  {
+    "id": 9,
+    "text": "GPT models generate text by predicting the next token based on prior context.",
+    "x": 5.7623,
+    "y": 12.264129,
+    "cluster": -1
+  },
+  {
+    "id": 10,
+    "text": "Singapore is a city-state located at the southern tip of the Malay Peninsula.",
+    "x": 8.026312,
+    "y": 11.623496,
+    "cluster": 1
+  },
+  {
+    "id": 11,
+    "text": "The Port of Singapore is one of the busiest container ports in the world.",
+    "x": 8.396775,
+    "y": 11.634465,
+    "cluster": 1
+  },
+  {
+    "id": 12,
+    "text": "Singapore's GDP per capita is among the highest in Asia, driven by finance and trade.",
+    "x": 7.691819,
+    "y": 11.539438,
+    "cluster": 1
+  },
+  {
+    "id": 13,
+    "text": "Changi Airport consistently ranks as one of the best airports globally.",
+    "x": 8.429275,
+    "y": 12.032405,
+    "cluster": 1
+  },
+  {
+    "id": 14,
+    "text": "The Housing Development Board provides affordable public housing for most Singaporeans.",
+    "x": 7.753214,
+    "y": 12.038552,
+    "cluster": 1
+  },
+  {
+    "id": 15,
+    "text": "AWS offers over 200 services including compute, storage, and machine learning.",
+    "x": 8.046598,
+    "y": 14.273292,
+    "cluster": 3
+  },
+  {
+    "id": 16,
+    "text": "Amazon Bedrock provides access to foundation models via a managed API.",
+    "x": 7.335914,
+    "y": 14.097956,
+    "cluster": 3
+  },
+  {
+    "id": 17,
+    "text": "EC2 instances provide scalable compute capacity in the AWS cloud.",
+    "x": 8.166841,
+    "y": 13.484121,
+    "cluster": 3
+  },
+  {
+    "id": 18,
+    "text": "S3 is an object storage service offering industry-leading durability at scale.",
+    "x": 8.656055,
+    "y": 13.218203,
+    "cluster": 3
+  },
+  {
+    "id": 19,
+    "text": "Lambda enables serverless compute, running code without provisioning servers.",
+    "x": 8.469242,
+    "y": 13.916498,
+    "cluster": 3
+  },
+  {
+    "id": 20,
+    "text": "VPC allows users to launch resources in a logically isolated virtual network.",
+    "x": 8.108953,
+    "y": 12.966996,
+    "cluster": 3
+  },
+  {
+    "id": 21,
+    "text": "IAM controls access to AWS services and resources securely.",
+    "x": 7.68984,
+    "y": 13.768063,
+    "cluster": 3
+  },
+  {
+    "id": 22,
+    "text": "CloudFormation lets you model, provision, and manage AWS resources with code.",
+    "x": 8.008781,
+    "y": 13.835381,
+    "cluster": 3
+  },
+  {
+    "id": 23,
+    "text": "The human gut microbiome contains trillions of microorganisms influencing health.",
+    "x": 5.994039,
+    "y": 13.836577,
+    "cluster": 0
+  },
+  {
+    "id": 24,
+    "text": "Gut bacteria produce short-chain fatty acids that fuel colonocyte metabolism.",
+    "x": 5.748648,
+    "y": 14.006968,
+    "cluster": 0
+  },
+  {
+    "id": 25,
+    "text": "Probiotics are live microorganisms that confer health benefits when consumed.",
+    "x": 6.297068,
+    "y": 13.987826,
+    "cluster": 0
+  },
+  {
+    "id": 26,
+    "text": "The gut-brain axis links the enteric nervous system to the central nervous system.",
+    "x": 5.40069,
+    "y": 13.693358,
+    "cluster": 0
+  },
+  {
+    "id": 27,
+    "text": "Dysbiosis, or microbial imbalance, is associated with inflammatory bowel disease.",
+    "x": 5.562801,
+    "y": 14.263572,
+    "cluster": 0
+  }
+]
